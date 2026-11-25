@@ -1,0 +1,5 @@
+**/__pycache__/
+*.py[cod]
+data/thread.sqlite
+data/thread.sqlite-shm
+data/thread.sqlite-wal
